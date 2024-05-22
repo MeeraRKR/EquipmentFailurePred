@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Meera/Jio//15MLOps/project/Predmain/mlruns/0/a0321a33b1a048acab917a831a10218d/artifacts
+end_time: 1716056947940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0321a33b1a048acab917a831a10218d
+run_name: Decision Tree1
+run_uuid: a0321a33b1a048acab917a831a10218d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716056944463
+status: 3
+tags: []
+user_id: kmeer

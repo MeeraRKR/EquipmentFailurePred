@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1716058366115
+current_stage: None
+description: ''
+last_updated_timestamp: 1716058366115
+name: SVC1
+run_id: 322d19be2e1d445d907d5443fce976a6
+run_link: ''
+source: file:///C:/Meera/Jio//15MLOps/project/Predmain/mlruns/0/322d19be2e1d445d907d5443fce976a6/artifacts/SVC
+status: READY
+status_message: null
+storage_location: file:///C:/Meera/Jio//15MLOps/project/Predmain/mlruns/0/322d19be2e1d445d907d5443fce976a6/artifacts/SVC
+user_id: null
+version: 1

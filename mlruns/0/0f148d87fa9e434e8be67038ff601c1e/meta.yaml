@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Meera/Jio//15MLOps/project/Predmain/mlruns/0/0f148d87fa9e434e8be67038ff601c1e/artifacts
+end_time: 1716056900937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f148d87fa9e434e8be67038ff601c1e
+run_name: Logistic Regression1
+run_uuid: 0f148d87fa9e434e8be67038ff601c1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716056897546
+status: 3
+tags: []
+user_id: kmeer

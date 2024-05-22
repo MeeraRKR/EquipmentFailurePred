@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Meera/Jio//15MLOps/project/Predmain/mlruns/0/d274cca7facf4fe69e249eab36290314/artifacts
+end_time: 1716056896204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d274cca7facf4fe69e249eab36290314
+run_name: Random Forest2
+run_uuid: d274cca7facf4fe69e249eab36290314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716056893055
+status: 3
+tags: []
+user_id: kmeer

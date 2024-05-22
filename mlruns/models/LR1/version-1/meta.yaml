@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1716058389760
+current_stage: None
+description: ''
+last_updated_timestamp: 1716058389760
+name: LR1
+run_id: 0f148d87fa9e434e8be67038ff601c1e
+run_link: ''
+source: file:///C:/Meera/Jio//15MLOps/project/Predmain/mlruns/0/0f148d87fa9e434e8be67038ff601c1e/artifacts/Logistic
+  Regression
+status: READY
+status_message: null
+storage_location: file:///C:/Meera/Jio//15MLOps/project/Predmain/mlruns/0/0f148d87fa9e434e8be67038ff601c1e/artifacts/Logistic
+  Regression
+user_id: null
+version: 1

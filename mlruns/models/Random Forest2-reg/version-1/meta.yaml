@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1716066401279
+current_stage: None
+description: null
+last_updated_timestamp: 1716066401279
+name: Random Forest2-reg
+run_id: d274cca7facf4fe69e249eab36290314
+run_link: null
+source: file:///C:/Meera/Jio//15MLOps/project/Predmain/mlruns/0/d274cca7facf4fe69e249eab36290314/artifacts/artifacts
+status: READY
+status_message: null
+storage_location: file:///C:/Meera/Jio//15MLOps/project/Predmain/mlruns/0/d274cca7facf4fe69e249eab36290314/artifacts/artifacts
+user_id: null
+version: 1

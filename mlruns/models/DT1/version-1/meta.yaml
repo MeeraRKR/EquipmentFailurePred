@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1716058351614
+current_stage: None
+description: ''
+last_updated_timestamp: 1716058351614
+name: DT1
+run_id: a0321a33b1a048acab917a831a10218d
+run_link: ''
+source: file:///C:/Meera/Jio//15MLOps/project/Predmain/mlruns/0/a0321a33b1a048acab917a831a10218d/artifacts/Decision
+  Tree
+status: READY
+status_message: null
+storage_location: file:///C:/Meera/Jio//15MLOps/project/Predmain/mlruns/0/a0321a33b1a048acab917a831a10218d/artifacts/Decision
+  Tree
+user_id: null
+version: 1

@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1716065074149
+current_stage: None
+description: 'This is the best performing models of all the models. '
+last_updated_timestamp: 1716065122307
+name: RF2
+run_id: d274cca7facf4fe69e249eab36290314
+run_link: ''
+source: file:///C:/Meera/Jio//15MLOps/project/Predmain/mlruns/0/d274cca7facf4fe69e249eab36290314/artifacts/Random
+  Forest
+status: READY
+status_message: null
+storage_location: file:///C:/Meera/Jio//15MLOps/project/Predmain/mlruns/0/d274cca7facf4fe69e249eab36290314/artifacts/Random
+  Forest
+user_id: null
+version: 1

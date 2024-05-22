@@ -1,0 +1,18 @@
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+ipykernel
+Flask
+imbalanced-learn
+imblearn
+#pickle
+mlflow
+evidently
+dvc
+streamlit
+streamlit-extras
+st-annotated-text
+
+#-e .
