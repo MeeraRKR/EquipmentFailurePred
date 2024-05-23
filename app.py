@@ -94,13 +94,13 @@ if choice == "Performance Measures":
     
     st.title("Model 1")
     annotated_text(("Best Model 1", "Random Forest Classifier"))
-    st.image("reports/model1.png")
+    st.image("reports/model1n.png")
     
     
     
     st.title("Model 2")
-    annotated_text(("Best Model 1", "Random Forest Classifier"))
-    st.image("reports/model2.png")
+    annotated_text(("Best Model 2", "Random Forest Classifier-registered"))
+    st.image("reports/model2n.png")
     
     
     
