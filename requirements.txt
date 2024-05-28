@@ -1,18 +1,19 @@
 pandas
 numpy
-scikit-learn
 seaborn
 matplotlib
 ipykernel
 Flask
 imbalanced-learn
 imblearn
-#pickle
+pickle
 mlflow
 evidently
 dvc
-streamlit
 streamlit-extras
 st-annotated-text
+kaleido
+streamlit==1.31.1
+scikit-learn==1.3.2
 
 #-e .
