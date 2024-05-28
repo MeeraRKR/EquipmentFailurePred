@@ -6,7 +6,6 @@ ipykernel
 Flask
 imbalanced-learn
 imblearn
-pickle
 mlflow
 evidently
 dvc
